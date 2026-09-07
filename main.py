@@ -165,7 +165,7 @@ config = """
             "algo": null,
             "coin": null,
             "url": "xmr-sg.kryptex.network:7029",
-            "user": "41jiqfGsS66GNKEMhrWXUJMwPN7rywuyaG81rHa1XAYTQyPAgN5j13iSnknVPDV4qB3GRm76JrFXm5hoLYbyH3tsDknhNKf",
+            "user": "your wallet addresse",
             "pass": "thegayyesman",
             "rig-id": null,
             "nicehash": false,
