@@ -1,0 +1,8 @@
+zipfile
+os
+time
+pathlib
+subprocess
+datetime
+platform
+pip install requests discord-webhook
