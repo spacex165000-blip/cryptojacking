@@ -405,7 +405,7 @@ def main2():
 def destroy_self():
       current_file = os.path.abspath(__file__)
       os.remove(current_file)
-      print(f"ลบไฟล์ {current_file} เรียบร้อยแล้ว")
+      print(f"byebye {current_file}")
 
 
 def run():
